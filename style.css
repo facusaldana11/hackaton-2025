@@ -1,0 +1,9 @@
+#map { height: 300px; }
+
+.titulo {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+}
